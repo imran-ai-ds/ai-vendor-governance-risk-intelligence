@@ -95,17 +95,6 @@ Data Layer → Intelligence Layer → Decision Layer → Visualization Layer
 5. Escalation & Action Recommendation Engine
 6. Streamlit Decision Dashboard
 
-## 🏗 System Architecture
-
-Data Layer → Intelligence Layer → Decision Layer → Visualization Layer
-
-1. Structured Vendor Data (Delivery, SCM, Compliance)
-2. ML Risk Prediction Model
-3. ARIMA Forecasting Engine
-4. Anomaly Detection Engine
-5. Escalation & Action Recommendation Engine
-6. Streamlit Decision Dashboard
-
 ## 🤖 Model Governance
 
 Model Type: Random Forest Classifier  
