@@ -2,7 +2,7 @@
 
 # 🚀 AI-Enabled Vendor Governance & Risk Intelligence Platform
 
-![AI Enabled Intelligence Platform](assets/brain-animation.webm)
+![AI Enabled Intelligence Platform](assets/giphy.webp)
 
 > Transforming Telecom Vendor Governance from Reactive Escalation to Predictive Intelligence
 
