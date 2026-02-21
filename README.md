@@ -2,6 +2,8 @@
 
 # 🚀 AI-Enabled Vendor Governance & Risk Intelligence Platform
 
+![AI Enabled Intelligence Platform](assets/brain-animation.webm)
+
 > Transforming Telecom Vendor Governance from Reactive Escalation to Predictive Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)]()
