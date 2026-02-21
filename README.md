@@ -4,14 +4,7 @@
 
 > Transforming Telecom Vendor Governance from Reactive Escalation to Predictive Intelligence
 
-![AI Enabled Intelligence Platform](assets/giphy.webp) [![Python](https://img.shields.io/badge/Python-3.9-blue)]() [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)]() [![Machine Learning](https://img.shields.io/badge/ML-RandomForest-green)]()
-
-
-
-
-
-[![Time Series](https://img.shields.io/badge/Forecasting-ARIMA-orange)]()
-[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)]()
+![AI Enabled Intelligence Platform](assets/transformation.jpg) [![Python](https://img.shields.io/badge/Python-3.9-blue)]() [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)]() [![Machine Learning](https://img.shields.io/badge/ML-RandomForest-green)]() [![Time Series](https://img.shields.io/badge/Forecasting-ARIMA-orange)]() [![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)]()
 
 # 🚀 AI-Enabled Vendor Governance & Risk Intelligence System
 
