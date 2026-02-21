@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner.jpg)
 
 # 🚀 AI-Enabled Vendor Governance & Risk Intelligence Platform
 
