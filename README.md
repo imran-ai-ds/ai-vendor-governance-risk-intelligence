@@ -16,6 +16,8 @@
   <a href="#-roadmap">Roadmap</a> •
 </p>
 
+---
+
 ## 🧠 Intelligence Delivered
 
 <p align="center">
