@@ -66,6 +66,13 @@ Estimates:
 
 ---
 
+## 🎥 Dashboard Walkthrough
+<p align="center">
+  <img src="assets/dashboard_demo.gif" width="900" alt="Dashboard demo"/>
+</p>
+
+---
+
 ## 📸 Dashboard Preview
 
 ### 📉 Predictive Risk
