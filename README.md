@@ -106,8 +106,9 @@ I build AI-driven governance systems that reduce leakage, improve performance, a
 </p>
 
 ---
-
+```md
 ## ⚙️ Quickstart
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
