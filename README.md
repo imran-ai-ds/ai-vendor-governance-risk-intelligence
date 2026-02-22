@@ -118,15 +118,15 @@ streamlit run app.py
 
 ## 🛣️ Roadmap
 
-- [x] Vendor Performance Index
-- [x] Risk Classification Model
-- [x] Financial Impact Simulation
-- [x] Time-Series Forecasting
-- [ ] Model Explainability (SHAP)
-- [ ] Drift Detection & Monitoring
-- [ ] Role-Based Governance Access
-- [ ] Deployment on Streamlit Cloud
-- [ ] CI/CD Integration
+- ✅ Vendor Performance Index
+- ✅ Risk Classification Model
+- ✅ Financial Impact Simulation
+- ✅ Time-Series Forecasting
+- ⬜ Model Explainability (SHAP)
+- ⬜ Drift Detection & Monitoring
+- ⬜ Role-Based Governance Access
+- ⬜ Deployment on Streamlit Cloud
+- ⬜ CI/CD Integration
 
 ---
 
