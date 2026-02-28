@@ -53,16 +53,6 @@ I build AI-driven governance systems that reduce leakage, improve performance, a
   <img src="assets/dashboard_demo.gif" width="900" alt="Dashboard walkthrough"/>
 </p>
 
-<details>
-  <summary><b>📸 Screenshot Gallery</b> (click to expand)</summary>
-
-  <p align="center">
-    <img src="assets/predictive_risk.jpeg" width="900" />
-    <img src="assets/financial_impact.jpeg" width="900" />
-    <img src="assets/time_series_escalation.jpeg" width="900" />
-  </p>
-</details>
-
 ---
 
 ## ✨ Key Features
