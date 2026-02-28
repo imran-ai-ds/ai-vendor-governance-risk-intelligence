@@ -2,7 +2,7 @@
   <img src="assets/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">AI Vendor Governance & Risk Intelligence</h1>
+<h1 align="center">AI Vendor Governance & Risk Intelligence: Production-Ready ML System with Monitoring & Governance Architecture</h1>
 
 <p align="center">
   Turning reactive vendor escalation into <b>predictive risk scoring</b>, <b>financial impact analysis</b>, and <b>time-series intelligence</b>.
@@ -44,7 +44,7 @@
 
 ## 👋 About Me
 I’m **Imran Sayyed**, Senior Manager with **17+ years** in telecom vendor operations, compliance, and cost governance.  
-I build AI-driven governance systems that reduce leakage, improve performance, and automate controls.
+I design enterprise-grade AI systems with a focus on scalable architecture, monitoring, and governance. My goal is to bridge domain expertise with production-ready ML systems that can operate reliably in real-world enterprise environments.
 
 ---
 
@@ -124,6 +124,17 @@ streamlit run app.py
 
 ---
 
+## 🔄 Model Lifecycle Management
+- Data ingestion & preprocessing
+- Feature transformation
+- Model training & validation
+- Artifact versioning
+- Deployment layer
+- Monitoring & drift detection (planned)
+- Governance & audit logging (planned)
+
+---
+
 ## 🗂️ Project Structure
 
 ```text
@@ -150,3 +161,5 @@ Senior Manager | AI & Data Science | Vendor Governance Automation
 - 🔗 GitHub: https://github.com/imran-ai-ds  
 - 🔗 LinkedIn: https://www.linkedin.com/in/imran-sayyed-77293759  
 - 📍 Mumbai / Pune (Open to Remote & Global Roles)
+
+- Note : Dataset used is synthetic / anonymized for demonstration purposes.
